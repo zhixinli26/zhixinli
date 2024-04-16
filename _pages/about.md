@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an incoming PhD student at Syracuse University School of Information Studies in Fall 2024. I will be advised by Dr. [Jaime Banks] (https://ischool.syr.edu/jaime-banks/#Biography).
+I am an incoming PhD student at Syracuse University School of Information Studies in Fall 2024. I will be advised by Dr. [Jaime Banks](https://ischool.syr.edu/jaime-banks/#Biography).
 
 A data-driven personal website
 ======
