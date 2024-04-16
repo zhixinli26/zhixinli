@@ -21,7 +21,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "zhixinli-childhood.png"
+  avatar           : "images/zhixin-childhood.png"
   name             : "Zhixin Li"
   pronouns         : "(she/her/她)"  
   bio              : #
