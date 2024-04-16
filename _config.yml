@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "zhixinli-childhood.png"
   name             : "Zhixin Li"
-  pronouns         : # example: "she/her/她"  
+  pronouns         : "she/her/她"  
   bio              : "A lifelong learner"
   location         : "Ann Arbor, Michigan"
   employer         : "University of Michigan"
@@ -32,8 +32,8 @@ author:
 
   # Academic websites
   orcid            : "http://orcid.org/0009-0006-1118-4361"
-  twitter          : # zhixinli26 for X / Twitter
-  linkedin         : # zhixinlipage
+  twitter          : "https://twitter.com/zhixinli26"
+  linkedin         : "https://www.linkedin.com/in/zhixinlipage/"
 
 
 
