@@ -12,7 +12,7 @@ title                    : "Zhixin Li"
 title_separator          : "-"
 name                     : &name "Zhixin Li"
 description              : &description "personal description"
-url                      : https://zhixin-li.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : zhixin-li.com
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
 
