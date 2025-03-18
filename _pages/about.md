@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About Zhixin Li"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
