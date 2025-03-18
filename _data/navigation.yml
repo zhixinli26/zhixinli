@@ -1,1 +1,11 @@
+# main links links
+main:
+  - title: "Publications"
+    url: /publications/
 
+  - title: "Research"
+    url: /Research/    
+
+  - title: "Travels"
+    url: /Travels/    
+    
