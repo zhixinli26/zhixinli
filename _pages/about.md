@@ -11,7 +11,7 @@ I am a PhD student at the [Syracuse University School of Information Studies (iS
 
 🚧(The site is under construction.)🚧 
 
-"为了AI与爱"
+
 
 Humans challenge me. They have their own thoughts, emotions, and unpredictable behaviors.
 
