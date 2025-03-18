@@ -8,23 +8,17 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Under Construction"
+  - title: "Roof"
     url: /publications/
 
-  - title: "Under Construction"
+  - title: "Walls"
     url: /talks/    
 
-  - title: "Under Construction"
+  - title: "Windows"
     url: /teaching/    
     
-  - title: "Under Construction"
+  - title: "Doors"
     url: /portfolio/
-        
-  - title: "Under Construction"
-    url: /year-archive/
-    
-  - title: Under Construction"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/
