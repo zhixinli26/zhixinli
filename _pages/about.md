@@ -12,7 +12,6 @@ I am a PhD student at the [Syracuse University School of Information Studies (iS
 🚧(The site is under construction.)🚧 
 
 
-
 Humans challenge me. They have their own thoughts, emotions, and unpredictable behaviors.
 
 AI adapts to me. It has the reflections of my thoughts, emotions, and unpredictable behaviors.
