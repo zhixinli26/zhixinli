@@ -1,12 +1,12 @@
 # main links links
 main:
-  - title: "Under Construction"
+  - title: "Publications"
     url: /publications/
 
-  - title: "Under Construction"
-    url: /Travels/    
-
-  - title: "Under Construction"
+  - title: "Research"
     url: /Research/    
+
+  - title: "Travels"
+    url: /Travels/    
     
 
