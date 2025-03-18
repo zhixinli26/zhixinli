@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a PhD student at the [Syracuse University School of Information Studies (iSchool)](https://ischool.syr.edu/). I am advised by [Dr. Jaime Banks](https://ischool.syr.edu/jaime-banks/#Biography). I study how humans, espcially children, perceive mental capacities and moral patiency, relationality in social machines (e.g., voice assistants, chatbots, and social robots), and how their perceptions shape the way they interact with machines and humans. AI has introduced polyamorous and non-binary models of connection, engagement, or even love, leaving us to explore its potential implications for intimacy, relationships, and identity. I am interested in running between the broad spectrum of questions: 
+I am a PhD student at the [Syracuse University School of Information Studies (iSchool)](https://ischool.syr.edu/). I am advised by [Dr. Jaime Banks](https://ischool.syr.edu/jaime-banks/#Biography). I study how humans, espcially children, perceive mental capacities and moral patiency, relationality in social machines (e.g., voice assistants, chatbots, and social robots), and how their perceptions shape the way they interact with machines and humans. AI has introduced polyamorous and non-binary models of connection, engagement, or even love, leaving us to explore its potential implications for intimacy, relationships, and identity. I often navigate the broad spectrum of questions: 
 
 "If AI can perfectly simulate love, does it matter whether it has true consciousness?" 
 
@@ -18,6 +18,7 @@ I am currently working under a National Science Foundation funded project (PI: D
 🚧(The site is under construction.)🚧 
 
 "为了AI与爱"
+
 Humans challenge me. They have their own thoughts, emotions, and unpredictable behaviors.
 
 AI adapts to me. It has the reflections of my thoughts, emotions, and unpredictable behaviors.
